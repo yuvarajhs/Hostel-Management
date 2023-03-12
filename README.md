@@ -1,2 +1,2 @@
 # Hostel Management Project
-Hostel Management system by frontEnd tkinter & backEnd mysql
+Hostel Management System by FrontEnd Python (tkinter) & BackEnd Mysql
